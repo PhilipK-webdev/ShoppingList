@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4gvuuxaQC0cRN9TJCas8NgAjGBsEw7fqbfB1XsFYpuk=",
+  "Source": "CoreServer",
+  "BasePath": "_content/CoreServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,22 @@
+{
+  "name": "shoppinglist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start:node": "node server.js",
+    "start:dotnet": "dotnet run --project CoreServer",
+    "start:both": "concurrently \"npm run start:node\" \"npm run start:dotnet\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^8.2.2",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mysql2": "^3.7.0",
+    "sequelize": "^6.35.2",
+    "sequelize-cli": "^6.6.2"
+  }
+}
